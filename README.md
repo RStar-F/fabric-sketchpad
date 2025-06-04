@@ -2,7 +2,15 @@
 
 本项目是用fabric开发的vue画板组件
 
-预览地址： https://frxing.github.io/fabric-sketchpad/
+### 项目地址：
+
+github: https://github.com/RStar-F/fabric-sketchpad
+
+gitee: https://gitee.com/btoa/fabric-sketchpad
+
+### 预览地址：
+
+预览地址： https://rstar-f.github.io/fabric-sketchpad/
 
 由于gitee Pages暂停服务，以下地址停止访问
 
